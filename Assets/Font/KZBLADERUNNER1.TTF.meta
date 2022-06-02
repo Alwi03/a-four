@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9657c4e0eb90fc94d8d70cfb0d449117
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KZ BLADERUNNER
+  fontNames:
+  - KZ BLADERUNNER
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f11d01e34c83fc4490c6495ad536f1d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
